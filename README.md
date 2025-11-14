@@ -30,6 +30,8 @@ Modern home printers often support Wi-Fi, automatic duplex printing, mobile prin
 
 ### EPSON L4266
 
+![EPSON-EcoTank-L4266](./attachments/EPSON-EcoTank-L4266.jpg)
+
 The Epson L4266 is an **ink-tank color inkjet printer** known for its low cost per page and efficient ink usage.
  Key features include:
 
